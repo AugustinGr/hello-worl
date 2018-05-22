@@ -1,1 +1,5 @@
-# hello-worl
+# hello-world
+
+Hi,
+
+I am Augustin!
